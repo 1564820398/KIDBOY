@@ -1,0 +1,5 @@
+Public class hello{
+  Public void main (String[]args){
+    System.out.print("helloworl")
+    }
+    }
